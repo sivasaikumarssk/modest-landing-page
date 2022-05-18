@@ -245,7 +245,7 @@ button:hover{
     backface-visibility: hidden;
   }
   
-  .hover_icons {
+  .hover_text {
     transition: .5s ease;
     opacity: 0;
     position: absolute;
@@ -261,7 +261,7 @@ button:hover{
     opacity: 100;
   }
   
-  .lovely_work_images:hover .hover_icons {
+  .lovely_work_images:hover .hover_text {
     opacity: 1;
   }
 .partnership{
